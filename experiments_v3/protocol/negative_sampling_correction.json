@@ -1,0 +1,23 @@
+{
+  "reason": "Fairness repair found during benchmark audit: type-constrained corruption on a six-disease graph could turn target query pairs into unlabelled training contrasts.",
+  "resolution": "Exclude every target indication query pair from negative corruption; allow only the three unlabelled supports. Apply to KGE/LLaDR and TxGNN/RGCN relation pretraining. Filter known training positives and mask exhausted negative domains.",
+  "affected_models": [
+    "DistMult",
+    "ComplEx",
+    "RotatE",
+    "LLaDR",
+    "TxGNN",
+    "RGCN",
+    "TxGNN-Qwen"
+  ],
+  "unaffected": [
+    "PSCEF",
+    "all individual text experts",
+    "all fusion controls",
+    "REDDA",
+    "K-Paths"
+  ],
+  "prior_results": "Retained only as superseded pilot artifacts; excluded from manuscript and reproduction package.",
+  "selection": "No new target-query-based hyperparameter selection. Existing source-validation/refit rules unchanged.",
+  "PSCEF_formula": "Unchanged from frozen protocol."
+}

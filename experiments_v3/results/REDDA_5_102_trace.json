@@ -1,0 +1,102 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.246946096420288,
+      "source_validation_AP": 0.00706360195056452
+    },
+    {
+      "epoch": 11,
+      "loss": 0.11323069781064987,
+      "source_validation_AP": 0.18552006855044478
+    },
+    {
+      "epoch": 21,
+      "loss": 0.06988222897052765,
+      "source_validation_AP": 0.21885963228162963
+    },
+    {
+      "epoch": 31,
+      "loss": 0.06880312412977219,
+      "source_validation_AP": 0.23987022521425444
+    },
+    {
+      "epoch": 41,
+      "loss": 0.06259465217590332,
+      "source_validation_AP": 0.23626623439542266
+    },
+    {
+      "epoch": 51,
+      "loss": 0.05352454632520676,
+      "source_validation_AP": 0.2807478878468067
+    },
+    {
+      "epoch": 61,
+      "loss": 0.046830467879772186,
+      "source_validation_AP": 0.28576467518462223
+    },
+    {
+      "epoch": 71,
+      "loss": 0.025973107665777206,
+      "source_validation_AP": 0.25314479995392314
+    },
+    {
+      "epoch": 81,
+      "loss": 0.026733826845884323,
+      "source_validation_AP": 0.2902276745955114
+    },
+    {
+      "epoch": 91,
+      "loss": 0.022936610504984856,
+      "source_validation_AP": 0.3304369313685253
+    },
+    {
+      "epoch": 101,
+      "loss": 0.016407223418354988,
+      "source_validation_AP": 0.37023388512120076
+    },
+    {
+      "epoch": 111,
+      "loss": 0.019226113334298134,
+      "source_validation_AP": 0.38229784302268205
+    },
+    {
+      "epoch": 121,
+      "loss": 0.017299124971032143,
+      "source_validation_AP": 0.3543085053668927
+    },
+    {
+      "epoch": 131,
+      "loss": 0.024660734459757805,
+      "source_validation_AP": 0.18138803386943952
+    },
+    {
+      "epoch": 141,
+      "loss": 0.025403622537851334,
+      "source_validation_AP": 0.313403760495373
+    },
+    {
+      "epoch": 151,
+      "loss": 0.017789380624890327,
+      "source_validation_AP": 0.3209458443536459
+    },
+    {
+      "epoch": 161,
+      "loss": 0.009799787774682045,
+      "source_validation_AP": 0.37969332339952533
+    },
+    {
+      "epoch": 171,
+      "loss": 0.010824358090758324,
+      "source_validation_AP": 0.37189463347810076
+    }
+  ],
+  "selected_epoch": 111,
+  "source_validation_AP": 0.38229784302268205,
+  "seconds": 90.08825755119324,
+  "target_support_drugs": [
+    "DrugBank::DB00995",
+    "DrugBank::DB00741",
+    "DrugBank::DB00297"
+  ]
+}

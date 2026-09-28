@@ -1,0 +1,15 @@
+{
+  "model": "deepseek-flash",
+  "thinking": {
+    "type": "disabled"
+  },
+  "temperature": 0,
+  "max_tokens": 1024,
+  "system": "For a retrospective computational drug-repurposing benchmark, score each candidate drug-disease pair from 0 to 100 for plausibility of a treatment association. Use the supplied graph evidence and general biomedical knowledge. Mere association does not establish benefit; penalize contradictory or irrelevant mechanisms. Scores are uncalibrated research ranking scores, not clinical advice. Return JSON {\"items\":[{\"id\":integer,\"score\":number}]}, without explanation. No outcomes or examples are provided.",
+  "batch_size": 8,
+  "budget_ceiling_cny": 15.0,
+  "pricing_bound_cny_per_million": {
+    "input": 2,
+    "output": 8
+  }
+}

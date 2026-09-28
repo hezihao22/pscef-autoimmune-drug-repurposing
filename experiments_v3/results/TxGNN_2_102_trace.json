@@ -1,0 +1,58 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 1.2900174856185913,
+      "source_validation_AP": 0.1285965266665708
+    },
+    {
+      "epoch": 11,
+      "loss": 0.4054485261440277,
+      "source_validation_AP": 0.08592013478091536
+    },
+    {
+      "epoch": 21,
+      "loss": 0.3836049735546112,
+      "source_validation_AP": 0.0781155622066396
+    },
+    {
+      "epoch": 31,
+      "loss": 0.36726921796798706,
+      "source_validation_AP": 0.09530445442450944
+    },
+    {
+      "epoch": 41,
+      "loss": 0.36058130860328674,
+      "source_validation_AP": 0.09362705023662157
+    },
+    {
+      "epoch": 51,
+      "loss": 0.35620683431625366,
+      "source_validation_AP": 0.11428969893335676
+    },
+    {
+      "epoch": 61,
+      "loss": 0.35356077551841736,
+      "source_validation_AP": 0.09635019933512406
+    },
+    {
+      "epoch": 71,
+      "loss": 0.3514801561832428,
+      "source_validation_AP": 0.11634979670609373
+    },
+    {
+      "epoch": 81,
+      "loss": 0.3497908413410187,
+      "source_validation_AP": 0.11249889014983613
+    }
+  ],
+  "selected_epoch": 1,
+  "source_validation_AP": 0.1285965266665708,
+  "seconds": 14.264250040054321,
+  "encoder_backend": "CUDA sparse algebra",
+  "target_support_drugs": [
+    "DrugBank::DB00788",
+    "DrugBank::DB00620",
+    "DrugBank::DB00443"
+  ]
+}

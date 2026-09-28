@@ -1,0 +1,9 @@
+drug,drug_name,source_label,PSCEF,RRF (same three experts),Qwen LR + supports,K-Paths + DeepSeek,TxGNN,LLaDR
+DB01611,Hydroxychloroquine,1,113,185,496,840,2237,105
+DB00091,Cyclosporine,1,63,55,104,72,2235,322
+DB08879,Belimumab,0,127,18,33,1,2907,2569
+DB00608,Chloroquine,0,43,17,100,20,2234,252
+DB06186,Ipilimumab,0,964,1043,666,2365,4071,2496
+DB00139,Succinic acid,0,855,698,369,610,3200,33
+DB09053,Ibrutinib,0,852,678,320,273,4375,197
+DB06292,Dapagliflozin,0,306,458,966,888,3461,210

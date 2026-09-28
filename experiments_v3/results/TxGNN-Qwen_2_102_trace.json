@@ -1,0 +1,93 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.045591354370117,
+      "source_validation_AP": 0.019261954236563846
+    },
+    {
+      "epoch": 11,
+      "loss": 0.5039858222007751,
+      "source_validation_AP": 0.06580275699659995
+    },
+    {
+      "epoch": 21,
+      "loss": 0.3991636335849762,
+      "source_validation_AP": 0.06890160005758267
+    },
+    {
+      "epoch": 31,
+      "loss": 0.3864413797855377,
+      "source_validation_AP": 0.0687289426392181
+    },
+    {
+      "epoch": 41,
+      "loss": 0.3829457759857178,
+      "source_validation_AP": 0.07356036770209899
+    },
+    {
+      "epoch": 51,
+      "loss": 0.3803238570690155,
+      "source_validation_AP": 0.0770436998986513
+    },
+    {
+      "epoch": 61,
+      "loss": 0.37846919894218445,
+      "source_validation_AP": 0.07955975000197339
+    },
+    {
+      "epoch": 71,
+      "loss": 0.37712934613227844,
+      "source_validation_AP": 0.0851653903576479
+    },
+    {
+      "epoch": 81,
+      "loss": 0.3760443329811096,
+      "source_validation_AP": 0.08889630904329787
+    },
+    {
+      "epoch": 91,
+      "loss": 0.3751375675201416,
+      "source_validation_AP": 0.09213434683220471
+    },
+    {
+      "epoch": 101,
+      "loss": 0.3743254840373993,
+      "source_validation_AP": 0.09064806852134022
+    },
+    {
+      "epoch": 111,
+      "loss": 0.37354934215545654,
+      "source_validation_AP": 0.08916864946696997
+    },
+    {
+      "epoch": 121,
+      "loss": 0.37281927466392517,
+      "source_validation_AP": 0.08914877169344226
+    },
+    {
+      "epoch": 131,
+      "loss": 0.3721024990081787,
+      "source_validation_AP": 0.09091324305080122
+    },
+    {
+      "epoch": 141,
+      "loss": 0.37139326333999634,
+      "source_validation_AP": 0.08994613597754006
+    },
+    {
+      "epoch": 151,
+      "loss": 0.37068691849708557,
+      "source_validation_AP": 0.08734717599329214
+    }
+  ],
+  "selected_epoch": 91,
+  "source_validation_AP": 0.09213434683220471,
+  "seconds": 26.926670789718628,
+  "encoder_backend": "CUDA sparse algebra",
+  "target_support_drugs": [
+    "DrugBank::DB00788",
+    "DrugBank::DB00620",
+    "DrugBank::DB00443"
+  ]
+}

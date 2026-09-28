@@ -1,0 +1,82 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.424260377883911,
+      "source_validation_AP": 0.0028318816384278415
+    },
+    {
+      "epoch": 11,
+      "loss": 0.2702500522136688,
+      "source_validation_AP": 0.18106138157919877
+    },
+    {
+      "epoch": 21,
+      "loss": 0.07298718392848969,
+      "source_validation_AP": 0.15506843242023022
+    },
+    {
+      "epoch": 31,
+      "loss": 0.051544398069381714,
+      "source_validation_AP": 0.16276762779896492
+    },
+    {
+      "epoch": 41,
+      "loss": 0.04089191183447838,
+      "source_validation_AP": 0.17780358986110514
+    },
+    {
+      "epoch": 51,
+      "loss": 0.040842875838279724,
+      "source_validation_AP": 0.18272245553914757
+    },
+    {
+      "epoch": 61,
+      "loss": 0.032820768654346466,
+      "source_validation_AP": 0.17086499415635914
+    },
+    {
+      "epoch": 71,
+      "loss": 0.027497313916683197,
+      "source_validation_AP": 0.23603944395850157
+    },
+    {
+      "epoch": 81,
+      "loss": 0.01949669048190117,
+      "source_validation_AP": 0.17689811235626451
+    },
+    {
+      "epoch": 91,
+      "loss": 0.02178211510181427,
+      "source_validation_AP": 0.2054009255810852
+    },
+    {
+      "epoch": 101,
+      "loss": 0.02078445628285408,
+      "source_validation_AP": 0.17836283392087765
+    },
+    {
+      "epoch": 111,
+      "loss": 0.03047538548707962,
+      "source_validation_AP": 0.09040466386321915
+    },
+    {
+      "epoch": 121,
+      "loss": 0.019511643797159195,
+      "source_validation_AP": 0.20651336746719579
+    },
+    {
+      "epoch": 131,
+      "loss": 0.016245432198047638,
+      "source_validation_AP": 0.22069209066178272
+    }
+  ],
+  "selected_epoch": 71,
+  "source_validation_AP": 0.23603944395850157,
+  "seconds": 70.68971800804138,
+  "target_support_drugs": [
+    "DrugBank::DB01307",
+    "DrugBank::DB00047",
+    "DrugBank::DB01309"
+  ]
+}

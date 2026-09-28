@@ -1,0 +1,88 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.299690008163452,
+      "source_validation_AP": 0.1061511447034936
+    },
+    {
+      "epoch": 11,
+      "loss": 0.3760707676410675,
+      "source_validation_AP": 0.13008804220970022
+    },
+    {
+      "epoch": 21,
+      "loss": 0.36920365691185,
+      "source_validation_AP": 0.11395435073004787
+    },
+    {
+      "epoch": 31,
+      "loss": 0.363820880651474,
+      "source_validation_AP": 0.12695053725836594
+    },
+    {
+      "epoch": 41,
+      "loss": 0.3590835928916931,
+      "source_validation_AP": 0.13996335926318335
+    },
+    {
+      "epoch": 51,
+      "loss": 0.3557685613632202,
+      "source_validation_AP": 0.14772824673708007
+    },
+    {
+      "epoch": 61,
+      "loss": 0.3530724048614502,
+      "source_validation_AP": 0.15175574177347748
+    },
+    {
+      "epoch": 71,
+      "loss": 0.35086536407470703,
+      "source_validation_AP": 0.16884797010073163
+    },
+    {
+      "epoch": 81,
+      "loss": 0.3490239977836609,
+      "source_validation_AP": 0.17310965381879945
+    },
+    {
+      "epoch": 91,
+      "loss": 0.34749388694763184,
+      "source_validation_AP": 0.15969074340450526
+    },
+    {
+      "epoch": 101,
+      "loss": 0.3462260663509369,
+      "source_validation_AP": 0.13787260120828368
+    },
+    {
+      "epoch": 111,
+      "loss": 0.3451548218727112,
+      "source_validation_AP": 0.14083543971015353
+    },
+    {
+      "epoch": 121,
+      "loss": 0.34425562620162964,
+      "source_validation_AP": 0.1408344964147919
+    },
+    {
+      "epoch": 131,
+      "loss": 0.3436073064804077,
+      "source_validation_AP": 0.12309526681458513
+    },
+    {
+      "epoch": 141,
+      "loss": 0.3431587815284729,
+      "source_validation_AP": 0.12309378985879156
+    }
+  ],
+  "selected_epoch": 81,
+  "source_validation_AP": 0.17310965381879945,
+  "seconds": 18.236709594726562,
+  "encoder_backend": "CUDA sparse algebra",
+  "target_support_drugs": [
+    "DrugBank::DB00995",
+    "DrugBank::DB00741",
+    "DrugBank::DB00297"
+  ]
+}

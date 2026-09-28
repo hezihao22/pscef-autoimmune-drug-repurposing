@@ -1,0 +1,87 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.4246928691864014,
+      "source_validation_AP": 0.03152930687909232
+    },
+    {
+      "epoch": 11,
+      "loss": 0.1685103476047516,
+      "source_validation_AP": 0.07590459259417118
+    },
+    {
+      "epoch": 21,
+      "loss": 0.08920944482088089,
+      "source_validation_AP": 0.0534251957843362
+    },
+    {
+      "epoch": 31,
+      "loss": 0.07624854147434235,
+      "source_validation_AP": 0.0693298609392934
+    },
+    {
+      "epoch": 41,
+      "loss": 0.04972317814826965,
+      "source_validation_AP": 0.05046630268215026
+    },
+    {
+      "epoch": 51,
+      "loss": 0.03690420463681221,
+      "source_validation_AP": 0.05248454846447378
+    },
+    {
+      "epoch": 61,
+      "loss": 0.024759838357567787,
+      "source_validation_AP": 0.07013502556095602
+    },
+    {
+      "epoch": 71,
+      "loss": 0.01618371345102787,
+      "source_validation_AP": 0.067175320082408
+    },
+    {
+      "epoch": 81,
+      "loss": 0.01482105441391468,
+      "source_validation_AP": 0.10197830208682872
+    },
+    {
+      "epoch": 91,
+      "loss": 0.009926281869411469,
+      "source_validation_AP": 0.09602022327767852
+    },
+    {
+      "epoch": 101,
+      "loss": 0.009635775350034237,
+      "source_validation_AP": 0.09979987025899065
+    },
+    {
+      "epoch": 111,
+      "loss": 0.01503384206444025,
+      "source_validation_AP": 0.07613410905674985
+    },
+    {
+      "epoch": 121,
+      "loss": 0.011639410629868507,
+      "source_validation_AP": 0.07739182978214851
+    },
+    {
+      "epoch": 131,
+      "loss": 0.006089420523494482,
+      "source_validation_AP": 0.09441463780482698
+    },
+    {
+      "epoch": 141,
+      "loss": 0.006539848167449236,
+      "source_validation_AP": 0.1015531372665607
+    }
+  ],
+  "selected_epoch": 81,
+  "source_validation_AP": 0.10197830208682872,
+  "seconds": 147.0833055973053,
+  "target_support_drugs": [
+    "DrugBank::DB00939",
+    "DrugBank::DB00563",
+    "DrugBank::DB01285"
+  ]
+}

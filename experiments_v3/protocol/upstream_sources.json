@@ -1,0 +1,53 @@
+[
+  {
+    "repository": "mims-harvard/TxGNN",
+    "commit": "0e0203c3939f7d12da27aaf10e55daaff5424023",
+    "default_branch": "main",
+    "url": "https://github.com/mims-harvard/TxGNN",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "source_files": 25,
+    "scope": "Source only; original datasets and weights not downloaded yet"
+  },
+  {
+    "repository": "gu-yaowen/REDDA",
+    "commit": "1852f75f522e37b7aa8d6c7bc460bd0fbf6fe6a6",
+    "default_branch": "main",
+    "url": "https://github.com/gu-yaowen/REDDA",
+    "license": null,
+    "source_files": 7,
+    "scope": "Source only; original datasets and weights not downloaded yet"
+  },
+  {
+    "repository": "rsinghlab/K-Paths",
+    "commit": "bf25d24eac6939574542d8994957b340ea1f5ab8",
+    "default_branch": "main",
+    "url": "https://github.com/rsinghlab/K-Paths",
+    "license": null,
+    "source_files": 17,
+    "scope": "Source only; original datasets and weights not downloaded yet"
+  },
+  {
+    "repository": "ceragoguztuzun/KGIA",
+    "commit": "cb862396333058a015e6b0129b2e40ed0be87464",
+    "default_branch": "master",
+    "url": "https://github.com/ceragoguztuzun/KGIA",
+    "license": null,
+    "source_files": 17,
+    "scope": "Source only; original datasets and weights not downloaded yet"
+  },
+  {
+    "repository": "xiaomingaaa/LLaDR",
+    "commit": "04b0b0d30ba0daabcccc2412fb166ffec412ef6f",
+    "default_branch": "master",
+    "url": "https://github.com/xiaomingaaa/LLaDR",
+    "license": null,
+    "source_files": 8,
+    "scope": "Source only; original datasets and weights not downloaded yet"
+  }
+]

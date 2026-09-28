@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "sampler_source_sha256": "c6bdd7c900d849df306805c34d57228c52898b5e0d2f4686f16be758bce9cc31",
+  "episodes": 18,
+  "batches_per_episode": 12,
+  "accepted_corruptions_checked": 3489051,
+  "masked_corruptions": 49893,
+  "target_query_negatives": 0,
+  "training_positive_corruptions": 0,
+  "core_monotone_invariance": true,
+  "core_equal_tie_symmetry": true,
+  "scope": "Unit audit executes the actual sampler AST; not a trace of every training update."
+}

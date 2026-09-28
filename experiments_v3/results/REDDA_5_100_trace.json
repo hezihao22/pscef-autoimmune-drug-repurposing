@@ -1,0 +1,92 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.480684995651245,
+      "source_validation_AP": 0.0012569898035064632
+    },
+    {
+      "epoch": 11,
+      "loss": 0.2647417485713959,
+      "source_validation_AP": 0.10245331385575271
+    },
+    {
+      "epoch": 21,
+      "loss": 0.11578729748725891,
+      "source_validation_AP": 0.08638834192453623
+    },
+    {
+      "epoch": 31,
+      "loss": 0.04637766629457474,
+      "source_validation_AP": 0.1802465636812845
+    },
+    {
+      "epoch": 41,
+      "loss": 0.03793862462043762,
+      "source_validation_AP": 0.18438098297273137
+    },
+    {
+      "epoch": 51,
+      "loss": 0.027061225846409798,
+      "source_validation_AP": 0.19780952579431965
+    },
+    {
+      "epoch": 61,
+      "loss": 0.017894761636853218,
+      "source_validation_AP": 0.20789315553807236
+    },
+    {
+      "epoch": 71,
+      "loss": 0.016977937892079353,
+      "source_validation_AP": 0.17920748848426232
+    },
+    {
+      "epoch": 81,
+      "loss": 0.020499393343925476,
+      "source_validation_AP": 0.16996644054193755
+    },
+    {
+      "epoch": 91,
+      "loss": 0.018175633624196053,
+      "source_validation_AP": 0.21222637043417017
+    },
+    {
+      "epoch": 101,
+      "loss": 0.01671021617949009,
+      "source_validation_AP": 0.20407714420468953
+    },
+    {
+      "epoch": 111,
+      "loss": 0.013910243287682533,
+      "source_validation_AP": 0.2025252112882589
+    },
+    {
+      "epoch": 121,
+      "loss": 0.011738226749002934,
+      "source_validation_AP": 0.19213665415610617
+    },
+    {
+      "epoch": 131,
+      "loss": 0.010669800452888012,
+      "source_validation_AP": 0.16822228971429343
+    },
+    {
+      "epoch": 141,
+      "loss": 0.016610058024525642,
+      "source_validation_AP": 0.17769222275168317
+    },
+    {
+      "epoch": 151,
+      "loss": 0.010187159292399883,
+      "source_validation_AP": 0.17927472421766277
+    }
+  ],
+  "selected_epoch": 91,
+  "source_validation_AP": 0.21222637043417017,
+  "seconds": 94.71539831161499,
+  "target_support_drugs": [
+    "DrugBank::DB00065",
+    "DrugBank::DB01380",
+    "DrugBank::DB05679"
+  ]
+}

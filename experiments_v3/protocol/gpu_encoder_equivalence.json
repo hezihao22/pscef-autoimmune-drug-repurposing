@@ -1,0 +1,6 @@
+{
+  "max_score_error": 5.21540641784668e-07,
+  "max_relative_gradient_error": 2.9397900237883705e-06,
+  "status": "passed",
+  "method": "Exact mean aggregation expressed by relation-wise normalized sparse adjacency; original decoder unchanged"
+}

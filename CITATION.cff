@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the PSCEF implementation or reproducibility materials."
+type: software
+title: "PSCEF for Autoimmune Drug Repurposing"
+version: 1.0.0
+date-released: 2026-09-28
+repository-code: "https://github.com/hezihao22/pscef-autoimmune-drug-repurposing"
+authors:
+  - family-names: Lang
+    given-names: Jing
+  - family-names: Dong
+    given-names: Gaoyong
+  - family-names: Li
+    given-names: Yaqin
+  - family-names: Qu
+    given-names: Huanhuan
+  - family-names: Li
+    given-names: Yaning
+  - family-names: Wang
+    given-names: Jinhe
+  - family-names: Ren
+    given-names: Jianxun
+  - family-names: Lang
+    given-names: Na

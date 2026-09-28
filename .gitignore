@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+experiments_v3/vendor/
+experiments_v3/work/
+data/
+*.npz
+*.gz
+*.zip
+*.tiff

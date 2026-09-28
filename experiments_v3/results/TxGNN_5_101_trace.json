@@ -1,0 +1,88 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.9240975379943848,
+      "source_validation_AP": 0.013543993905105947
+    },
+    {
+      "epoch": 11,
+      "loss": 0.4170471131801605,
+      "source_validation_AP": 0.1165973998605883
+    },
+    {
+      "epoch": 21,
+      "loss": 0.38001254200935364,
+      "source_validation_AP": 0.10761891584811907
+    },
+    {
+      "epoch": 31,
+      "loss": 0.3673502504825592,
+      "source_validation_AP": 0.12369587518703044
+    },
+    {
+      "epoch": 41,
+      "loss": 0.36223024129867554,
+      "source_validation_AP": 0.12249863933924036
+    },
+    {
+      "epoch": 51,
+      "loss": 0.3587378263473511,
+      "source_validation_AP": 0.13882395707422238
+    },
+    {
+      "epoch": 61,
+      "loss": 0.3566044569015503,
+      "source_validation_AP": 0.14432564904048412
+    },
+    {
+      "epoch": 71,
+      "loss": 0.35489529371261597,
+      "source_validation_AP": 0.16072960049653248
+    },
+    {
+      "epoch": 81,
+      "loss": 0.35344183444976807,
+      "source_validation_AP": 0.17074155186755519
+    },
+    {
+      "epoch": 91,
+      "loss": 0.35218948125839233,
+      "source_validation_AP": 0.15550284374899165
+    },
+    {
+      "epoch": 101,
+      "loss": 0.35105252265930176,
+      "source_validation_AP": 0.1569315952645745
+    },
+    {
+      "epoch": 111,
+      "loss": 0.3499615788459778,
+      "source_validation_AP": 0.1657249138272912
+    },
+    {
+      "epoch": 121,
+      "loss": 0.34889599680900574,
+      "source_validation_AP": 0.1411128983857905
+    },
+    {
+      "epoch": 131,
+      "loss": 0.347878098487854,
+      "source_validation_AP": 0.13907500075969542
+    },
+    {
+      "epoch": 141,
+      "loss": 0.3469668924808502,
+      "source_validation_AP": 0.14161458869985757
+    }
+  ],
+  "selected_epoch": 81,
+  "source_validation_AP": 0.17074155186755519,
+  "seconds": 18.26226496696472,
+  "encoder_backend": "CUDA sparse algebra",
+  "target_support_drugs": [
+    "DrugBank::DB01380",
+    "DrugBank::DB00620",
+    "DrugBank::DB08904"
+  ]
+}

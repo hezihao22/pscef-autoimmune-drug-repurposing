@@ -1,0 +1,81 @@
+{
+  "status": "Exploratory extension after inspection of six disease domains; not an independent external validation",
+  "PSCEF": {
+    "experts": [
+      "source-only Qwen C1 balanced LR",
+      "source-only word/bigram TFIDF C1 balanced LR",
+      "DeepSeek plausibility"
+    ],
+    "rank": "average-tie percentile (rank-.5)/N",
+    "reliability": "mean positive-support -log(max(1-r,1/(2N)))",
+    "weights": "softmax reliability, beta=1",
+    "score": "weighted sum exp(4*(r-1))"
+  },
+  "support_seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "graph_training_seeds": [
+    11,
+    29,
+    47
+  ],
+  "positive_support": 3,
+  "unlabelled_support": 3,
+  "candidate_sets": [
+    "original 4074 path-covered pairs",
+    "all 4477 approved-flag drugs per disease"
+  ],
+  "target_truth": "only 3 positive supports may enter fitting; all remaining known indications masked",
+  "primary_metric": "macro disease average precision",
+  "secondary": [
+    "AUROC",
+    "filtered MRR",
+    "Recall@10"
+  ],
+  "inference": "paired bootstrap over six diseases, not over correlated support draws; exploratory intervals",
+  "selection": "source-disease validation only; no target-query selection",
+  "test_blinding_limit": "domains and historical path-covered results already inspected",
+  "no_publication_authorized": true,
+  "graph": {
+    "genes": 4406,
+    "edges": 58085,
+    "relations": [
+      "drug_protein",
+      "protein_protein",
+      "rev_disease_protein"
+    ]
+  },
+  "hashes": {
+    "full_items.json": "4f7ba3026ddf87bff8ac2c26f8c9d3562b87834fa9418928a6254467c7547995",
+    "graph.json": "17d54875bb43371a709cbfe6641db144570afaf55de7694b6722bb894cf26215"
+  }
+}

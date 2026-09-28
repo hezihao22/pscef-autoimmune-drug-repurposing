@@ -1,0 +1,118 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 1.7534090280532837,
+      "source_validation_AP": 0.06996048482270323
+    },
+    {
+      "epoch": 11,
+      "loss": 0.4598829448223114,
+      "source_validation_AP": 0.08505855246169579
+    },
+    {
+      "epoch": 21,
+      "loss": 0.3852420449256897,
+      "source_validation_AP": 0.0856071685248136
+    },
+    {
+      "epoch": 31,
+      "loss": 0.37913891673088074,
+      "source_validation_AP": 0.09240977902719688
+    },
+    {
+      "epoch": 41,
+      "loss": 0.3764151632785797,
+      "source_validation_AP": 0.09175466559314843
+    },
+    {
+      "epoch": 51,
+      "loss": 0.3747561573982239,
+      "source_validation_AP": 0.09654526338454804
+    },
+    {
+      "epoch": 61,
+      "loss": 0.3732636868953705,
+      "source_validation_AP": 0.10025806343672498
+    },
+    {
+      "epoch": 71,
+      "loss": 0.3722166419029236,
+      "source_validation_AP": 0.10184537883441651
+    },
+    {
+      "epoch": 81,
+      "loss": 0.37137576937675476,
+      "source_validation_AP": 0.10184500470798241
+    },
+    {
+      "epoch": 91,
+      "loss": 0.37066489458084106,
+      "source_validation_AP": 0.10978193449068432
+    },
+    {
+      "epoch": 101,
+      "loss": 0.3700465261936188,
+      "source_validation_AP": 0.11611613999921817
+    },
+    {
+      "epoch": 111,
+      "loss": 0.36947888135910034,
+      "source_validation_AP": 0.12357163534293762
+    },
+    {
+      "epoch": 121,
+      "loss": 0.368934690952301,
+      "source_validation_AP": 0.1313499945757261
+    },
+    {
+      "epoch": 131,
+      "loss": 0.3683970868587494,
+      "source_validation_AP": 0.14305765751120172
+    },
+    {
+      "epoch": 141,
+      "loss": 0.3678551912307739,
+      "source_validation_AP": 0.15263233926413833
+    },
+    {
+      "epoch": 151,
+      "loss": 0.36730262637138367,
+      "source_validation_AP": 0.1521072461894682
+    },
+    {
+      "epoch": 161,
+      "loss": 0.3667391240596771,
+      "source_validation_AP": 0.14448909939200102
+    },
+    {
+      "epoch": 171,
+      "loss": 0.3661736249923706,
+      "source_validation_AP": 0.14448983940353693
+    },
+    {
+      "epoch": 181,
+      "loss": 0.36562442779541016,
+      "source_validation_AP": 0.14211001260575315
+    },
+    {
+      "epoch": 191,
+      "loss": 0.36511483788490295,
+      "source_validation_AP": 0.14478534741296079
+    },
+    {
+      "epoch": 201,
+      "loss": 0.36466357111930847,
+      "source_validation_AP": 0.14537067249249094
+    }
+  ],
+  "selected_epoch": 141,
+  "source_validation_AP": 0.15263233926413833,
+  "seconds": 32.9588041305542,
+  "encoder_backend": "CUDA sparse algebra",
+  "target_support_drugs": [
+    "DrugBank::DB00859",
+    "DrugBank::DB00712",
+    "DrugBank::DB00461"
+  ]
+}

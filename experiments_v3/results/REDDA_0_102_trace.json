@@ -1,0 +1,57 @@
+{
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 2.193464994430542,
+      "source_validation_AP": 0.004932759769009867
+    },
+    {
+      "epoch": 11,
+      "loss": 0.16480177640914917,
+      "source_validation_AP": 0.41073466665781966
+    },
+    {
+      "epoch": 21,
+      "loss": 0.082717165350914,
+      "source_validation_AP": 0.34439560643010636
+    },
+    {
+      "epoch": 31,
+      "loss": 0.0684124156832695,
+      "source_validation_AP": 0.3388604335351344
+    },
+    {
+      "epoch": 41,
+      "loss": 0.05942531302571297,
+      "source_validation_AP": 0.3606076424661498
+    },
+    {
+      "epoch": 51,
+      "loss": 0.0513218529522419,
+      "source_validation_AP": 0.3844071090316769
+    },
+    {
+      "epoch": 61,
+      "loss": 0.04246101155877113,
+      "source_validation_AP": 0.38570636119833274
+    },
+    {
+      "epoch": 71,
+      "loss": 0.029764510691165924,
+      "source_validation_AP": 0.3738391865072851
+    },
+    {
+      "epoch": 81,
+      "loss": 0.021506793797016144,
+      "source_validation_AP": 0.38222569121335126
+    }
+  ],
+  "selected_epoch": 11,
+  "source_validation_AP": 0.41073466665781966,
+  "seconds": 35.66612410545349,
+  "target_support_drugs": [
+    "DrugBank::DB00178",
+    "DrugBank::DB00071",
+    "DrugBank::DB00046"
+  ]
+}
